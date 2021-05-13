@@ -1,0 +1,1 @@
+{'function': {'func_name': '_sum', 'globals': {'x': 5}, 'code': 'def _sum():\n    global x\n\n    return x + 5\n'}}

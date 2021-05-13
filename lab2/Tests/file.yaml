@@ -1,0 +1,3 @@
+"function:\n  code: \"def g_func():\\n    global x\\n    global y\\n    global z\\\
+  n    print('hello')\\n\\\n    \\    return x + y + z\\n\"\n  func_name: g_func\n\
+  \  globals:\n    x: 1\n    y: 1\n    z: 1\n"

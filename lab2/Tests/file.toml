@@ -1,0 +1,8 @@
+[function]
+func_name = "g_func"
+code = "def g_func():\n    global x\n    global y\n    global z\n    print('hello')\n    return x + y + z\n"
+
+[function.globals]
+x = 1
+y = 1
+z = 1
